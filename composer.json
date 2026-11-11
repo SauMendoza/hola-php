@@ -1,0 +1,8 @@
+{
+    "name": "tomy/hola-php",
+    "description": "Hola Mundo en PHP",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    }
+}
